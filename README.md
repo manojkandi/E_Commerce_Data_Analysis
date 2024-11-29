@@ -13,7 +13,6 @@ E-Commerce Data Analysis Project is a data engineering project aimed at analyzin
 - [Project Structure](#project-structure)  
 - [Insights and Visualizations](#insights-and-visualizations)  
 - [Future Enhancements](#future-enhancements)  
-- [Contact](#contact)
 
 ## Features  
 - Data Generation: Synthetic e-commerce data with realistic variations across products, locations, and time periods.  
